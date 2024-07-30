@@ -14,7 +14,7 @@ public class QuizApplication {
             this.question = question;
             this.options = options;
             this.correctAnswer = correctAnswer;
-        }
+        } 
     }
 
     static class Quiz {
