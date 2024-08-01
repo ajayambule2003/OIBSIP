@@ -13,8 +13,8 @@ If the guess is too low, it informs the user that the guess is lower than the ta
 Loop: The game continues until the user guesses the correct number. 
 
 2.**This Java program simulates a basic ATM system.** 
- Here is a brief summary of its functionality: 
-
+ Here is a brief summary of its functionality:  
+ 
 Login: The user is prompted to enter a username and PIN. After entering these details, a welcome message is displayed.
 Main Menu: The user is presented with a menu of options:
 Withdraw: The user can enter an amount to withdraw. If there are sufficient funds, the balance is decreased, and the transaction is recorded in the history.
