@@ -10,7 +10,7 @@ Comparison:
 If the user's guess is correct, it prints a congratulatory message and exits the loop.
 If the guess is too high, it informs the user that the guess is higher than the target and asks them to guess again.
 If the guess is too low, it informs the user that the guess is lower than the target and asks them to guess again.
-Loop: The game continues until the user guesses the correct number.
+Loop: The game continues until the user guesses the correct number. 
 
 2.**This Java program simulates a basic ATM system.** 
  Here is a brief summary of its functionality: 
