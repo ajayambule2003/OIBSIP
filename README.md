@@ -12,7 +12,7 @@ If the guess is too high, it informs the user that the guess is higher than the 
 If the guess is too low, it informs the user that the guess is lower than the target and asks them to guess again.
 Loop: The game continues until the user guesses the correct number. 
 
-2.**This Java program simulates a basic ATM system.** 
+2.**This Java program simulates a basic ATM system.**  
  Here is a brief summary of its functionality:  
  
 Login: The user is prompted to enter a username and PIN. After entering these details, a welcome message is displayed.
