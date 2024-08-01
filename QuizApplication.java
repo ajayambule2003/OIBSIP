@@ -7,7 +7,7 @@ public class QuizApplication {
 
     static class Question {
         String question; 
-        String[] options; 
+        String[] options;  
         char correctAnswer;
 
         Question(String question, String[] options, char correctAnswer) {
