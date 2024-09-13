@@ -13,7 +13,7 @@ public class QuizApplication {
         Question(String question, String[] options, char correctAnswer) {
             this.question = question;
             this.options = options;
-            this.correctAnswer = correctAnswer;
+            this.correctAnswer = correctAnswer; 
         } 
     }
 
