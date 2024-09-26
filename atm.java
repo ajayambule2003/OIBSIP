@@ -6,7 +6,7 @@ class atm {
         System.out.println("Enter username:");
         String name = sc.next();
         System.out.println("Enter your pin:");
-        sc.next();
+        sc.next(); 
         System.out.println("Login Successful !!\n\nWelcome " + name);
 
         int bal = 0, n;
