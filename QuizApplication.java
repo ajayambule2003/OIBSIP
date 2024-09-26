@@ -6,8 +6,8 @@ import java.util.TimerTask;
 public class QuizApplication {
 
     static class Question {
-        String question; 
-        String[] options;  
+        String question;
+        String[] options;
         char correctAnswer;
 
         Question(String question, String[] options, char correctAnswer) {
