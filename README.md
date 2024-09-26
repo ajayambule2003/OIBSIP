@@ -20,7 +20,7 @@ Main Menu: The user is presented with a menu of options:
 Withdraw: The user can enter an amount to withdraw. If there are sufficient funds, the balance is decreased, and the transaction is recorded in the history.
 Deposit: The user can enter an amount to deposit. If the amount is less than or equal to 50,000, the balance is increased, and the transaction is  recorded  in  the  history.
 Transfer: The user can transfer an amount to another account by entering the recipient's username. The balance is decreased, and the transaction is recorded in the history.
-Transaction History: The user can view a list of all transactions performed during the session.
+Transaction History: The user can view a list of all transactions performed during the session. 
 Exit: The user can choose to exit the program.
 Continue or Exit: After each transaction, the user is asked if they want to continue or exit. If they choose to continue, the main menu is displayed again.
 Close Scanner: The scanner is closed when the user chooses to exit
