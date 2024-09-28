@@ -23,7 +23,7 @@ Transfer: The user can transfer an amount to another account by entering the rec
 Transaction History: The user can view a list of all transactions performed during the session. 
 Exit: The user can choose to exit the program.
 Continue or Exit: After each transaction, the user is asked if they want to continue or exit. If they choose to continue, the main menu is displayed again.
-Close Scanner: The scanner is closed when the user chooses to exit
+Close Scanner: The scanner is closed when the user chooses to  exit
 
 3. **This Java program is a quiz application that asks multiple-choice questions to the user.**
  Here's a brief summary of its functionality:
