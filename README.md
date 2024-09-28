@@ -26,7 +26,7 @@ Continue or Exit: After each transaction, the user is asked if they want to cont
 Close Scanner: The scanner is closed when the user chooses to  exit
 
 3. **This Java program is a quiz application that asks multiple-choice questions to the user.**
- Here's a brief summary of its functionality:
+ Here's a brief summary of its functionality: 
 
 Question Class: Represents a quiz question, including the question text, answer options, and the correct answer.
 
