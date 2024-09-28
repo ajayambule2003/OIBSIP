@@ -30,7 +30,7 @@ Close Scanner: The scanner is closed when the user chooses to exit
 
 Question Class: Represents a quiz question, including the question text, answer options, and the correct answer.
 
-Quiz Class: 
+Quiz Class:
 
 Fields: Holds an array of Question objects, the user's score, the current question index, a flag for whether an answer was submitted, the user's answer, and a Timer.
 start() Method: Initiates the quiz, iterates through each question, displays it, starts a timer, gets the user's answer, updates the score, and stops the timer. The user has 10 seconds to answer each question.
